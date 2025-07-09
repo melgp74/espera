@@ -1,3 +1,4 @@
 <?PHP 
-            alert("Priscilla y Melanie Ruiz");
+echo "<script>alert('M & P');</script>"
 ?>
+
